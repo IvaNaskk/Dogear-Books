@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411601119457",
+    "project_id": "dogear2",
+    "storage_bucket": "dogear2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411601119457:android:f9a582e79989e139cdefa0",
+        "android_client_info": {
+          "package_name": "com.example.dogear2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAKEWXZgJz-UikX04x4ktgGmJ7cM_iJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
